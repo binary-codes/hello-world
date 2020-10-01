@@ -1,2 +1,2 @@
-# hello-world
-this is my first git hub repository to understand how git hub works.
+# Hello-World
+This is my first Github repository to understand how github works.
